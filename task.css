@@ -110,7 +110,7 @@ button:hover {
   background: rgb(13, 194, 13);
   transform:translateY(-2px);
   color:rgb(255, 0, 0);
-  box-shadow: 0 0 12px 15px rgb(25, 67, 121);
+  box-shadow: 0 0 16px 10px rgb(25, 67, 121);
 }
 #b{
   color:rgb(0, 0, 0);
