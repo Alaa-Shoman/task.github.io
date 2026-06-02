@@ -93,6 +93,7 @@ input, textarea {
 }
 input:hover,textarea:hover{
   transform:scale(1.05);
+  background:gray;
 }
 button {
   padding: 10px;
