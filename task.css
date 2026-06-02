@@ -1,13 +1,13 @@
 html{
   height:100%;
 }
-body {
+/* body {
   display:flex;
   flex-direction: column;
   font-family: Arial, sans-serif;
   margin: 0;
   background: #abc2e6;
-  height:100%;
+  height:100%; */
 }
 section{
   width:100%;
